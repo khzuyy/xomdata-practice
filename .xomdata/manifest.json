@@ -111,5 +111,13 @@
   "practice/sql/easy/easy-leftjoin-003/solution.sql": "5b280f0bb90a51983dfa418ab045d1998f81801df20512d3540655629b5451ed",
   "practice/sql/easy/easy-length-001/solution.sql": "5a2e3f2d6ae36c90ecee4845a529e55e2569f1c8146f0530aa65e6f2cb2cdb45",
   "practice/sql/easy/easy-like-002/solution.sql": "1be5693321afef05cb9898af6a9362c3f407d3b52b4c39fae90303a774b0b861",
-  "practice/sql/easy/easy-alias-001/solution.sql": "a110d8c5b93ae71453e16190f62f4f87ca93b44b3f23d5a21d82a5c892673bbe"
+  "practice/sql/easy/easy-alias-001/solution.sql": "a110d8c5b93ae71453e16190f62f4f87ca93b44b3f23d5a21d82a5c892673bbe",
+  "practice/python/easy/py-shipping-fee/solution.py": "fc6971a290f237155f28e73001cb3c8fffecf1b9daf8fb66723ba63df5310587",
+  "practice/python/medium/py-top-k/solution.py": "3cf2cdbad7bb2bd38941409f2eb414b44ffc45473eca274ca25e4813dd7b0f33",
+  "practice/python/medium/py-top-n-with-tie/solution.py": "8c3164cf702cf4c2a06dff597e82d634eed174c53e1eb450a35f5e0eee327461",
+  "practice/python/medium/py-running-total/solution.py": "b8a3dd3fad4a39b903db84f9009576c1c667e4a8976741cc38670258fc11ebfc",
+  "practice/python/medium/py-second-largest/solution.py": "3b267af9a71cedea3199c6ea5756309d496193768a3549894fe1dd2ba40d65b1",
+  "practice/python/medium/py-select-columns/solution.py": "8992102d291e16b3e3d36c59d0badf30d8106482d4b239cec85926a783e5f861",
+  "practice/sql/medium/medium-groupby-027/solution.sql": "1b43a4276c60b39504985e662d6c2600658dbd070224af54f40a434b48f4009a",
+  "practice/python/easy/py-safe-divide/solution.py": "4274b3ed006723f1143d88f21e9ef78d44e3efb0beb0cf521949a01e92ccaf08"
 }
